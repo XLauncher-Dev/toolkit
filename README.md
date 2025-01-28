@@ -1,6 +1,6 @@
 # Toolkit
 
-A dual-language package (Go/Rust) for building and managing LLM function calling tools and toolkits. Built specifically for Zen.
+A dual-language package (Go/Rust) for building and managing LLM function calling tools and toolkits
 
 ## Features
 
